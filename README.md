@@ -34,7 +34,7 @@ The findings highlight important correlations and provide a deeper understanding
 
 ## Conclusion
 
-This project showcases the application of linear regression analysis in a real-world context, demonstrating how statistical methods can be used to derive meaningful insights from data.
+The analysis demonstrates that diamond width and depth are reliable predictors of price, indicating their significant influence on the market value of diamonds.
 
 ## Authors
 
@@ -43,5 +43,6 @@ This project showcases the application of linear regression analysis in a real-w
 - Sihan Fang
 - Yuxin Guo
 - Zhaoye Liu
+- Xiao Xiao 
 
 
